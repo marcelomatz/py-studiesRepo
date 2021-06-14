@@ -1,0 +1,23 @@
+{
+    "1": {
+        "nome": "Marcelo Matzembacher",
+        "sobrenome": "Coelho",
+        "idade": 37,
+        "altura": 1.77,
+        "peso": 80.0
+    },
+    "2": {
+        "nome": "Nico",
+        "sobrenome": "Bulldoguinho",
+        "idade": 2,
+        "altura": 0.3,
+        "peso": 9
+    },
+    "3": {
+        "nome": "Gabriela",
+        "sobrenome": "Xavier",
+        "idade": 35,
+        "altura": 1.65,
+        "peso": 65
+    }
+}
